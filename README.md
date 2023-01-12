@@ -12,8 +12,9 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/nickkempe) if you ar
 * December 2022.
 
 
-###  [BoardGameGeek EDA] (https://github.com/NickBDA/footballpredictor)
+###  [BoardGameGeek EDA] (https://github.com/NickBDA/BoardGameGeekEDA)
 
 * Exploratory Data Analysis of BoardGameGeek forum's top 1500 games.
+* Webscraping and Pandas project.
 * First project from Data Science Bootcamp.
 * October 2022.
